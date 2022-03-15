@@ -1,10 +1,10 @@
 ### Hey everyone, I'm Atta Ullah Khan, Software Engineer at VertexSoft (SMC-Private) Limited
 
 - 👋 Hi, I’m @attaullahkhaan
-- 👀 I’m interested in Full-Stack Web Development
+- 👀 I’m interested in Web Desingning, Web Development, Full-Stack Web Development, Software Development.
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScritp, ASP.NET MVC.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Designing, Software Development Application. 
+- 📫 How to reach me (E: attaullahkhaan@yahoo.com, P: +92 344 2322425)
 
 <!---
 attaullahkhaan/attaullahkhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
