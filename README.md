@@ -1,4 +1,4 @@
-### Hey everyone, I'm Atta Ullah Khan, Software Engineer at VertexSoft (SMC-Private) Limited
+### Hey everyone, I'm Atta Ullah Khan, Software Engineer at Adrem Technologies - Dubai, UAE
 
 - 👋 Hi, I’m @attaullahkhaan
 - 👀 I’m interested in Web Desingning, Web Development, Full-Stack Web Development, Software Development.
